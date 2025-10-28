@@ -16,5 +16,3 @@ This property can take one of the following values:
  
  + scale-down - (scale-down) a imagem é reduzida para a menor versão de none ou contain.
 
-
-### Propriedade Objetc-position
